@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "de6150918a7d84dc2b48252fc0"
+    "apiUrl": "http://157.245.127.139",
+    "contentApiKey": "9db62f60f36614728872d3ff4f"
   },
   "production": {
-    "apiUrl": "https://armour-admin.serveo.net",
-    "contentApiKey": "de6150918a7d84dc2b48252fc0"
+    "apiUrl": "http://157.245.127.139",
+    "contentApiKey": "9db62f60f36614728872d3ff4f"
   }
 }
